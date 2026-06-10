@@ -308,7 +308,6 @@ export default function App() {
         {/* Decorative Footer Spacer */}
         <footer className="py-16 text-center">
             <p className="font-script text-5xl text-[#CBA373]">Merve & Zafer</p>
-            <p className="mt-4 text-[10px] tracking-[0.4em] text-[#A39785] uppercase">Sonsuza Dek</p>
         </footer>
 
         {/* Floating Elegant "Yol Tarifi Al" Button */}
