@@ -103,12 +103,12 @@ export default function App() {
                       className="bg-white border border-[#E8E2D9] shadow-sm p-8 rounded-3xl flex flex-col items-center relative overflow-hidden"
                   >
                       <div className="absolute top-0 w-full h-1 bg-[#CBA373]/20"></div>
-                      <h3 className="font-serif text-2xl text-[#2A2723] mb-2">Kına</h3>
-                      <p className="text-[19px] font-serif text-[#5A544A] mb-1">26 Haziran 2026</p>
-                      <p className="text-[10px] tracking-[0.3em] text-[#A39785] uppercase mb-4">Cuma</p>
-                      <div className="flex items-center gap-2 text-[#7A7265] bg-[#FAF8F5] px-4 py-2 rounded-full border border-[#E8E2D9]">
-                          <Clock className="w-3.5 h-3.5 text-[#CBA373]" />
-                          <span className="text-xs font-medium">19:00 - 23:00</span>
+                      <h3 className="font-serif text-3xl text-[#CBA373] mb-3">Kına</h3>
+                      <p className="text-[22px] font-sans font-bold text-[#2A2723] mb-1">26 Haziran 2026</p>
+                      <p className="text-xs tracking-[0.4em] font-bold text-[#A39785] uppercase mb-5">Cuma</p>
+                      <div className="flex items-center gap-2.5 text-[#2A2723] bg-[#FAF8F5] px-5 py-2.5 rounded-full border border-[#E8E2D9]">
+                          <Clock className="w-4 h-4 text-[#CBA373]" />
+                          <span className="text-[14px] font-bold tracking-widest">19:00 - 23:00</span>
                       </div>
                   </motion.div>
 
@@ -121,12 +121,12 @@ export default function App() {
                       className="bg-white border border-[#E8E2D9] shadow-sm p-8 rounded-3xl flex flex-col items-center relative overflow-hidden"
                   >
                       <div className="absolute top-0 w-full h-1 bg-[#CBA373]/20"></div>
-                      <h3 className="font-serif text-2xl text-[#2A2723] mb-2">Düğün</h3>
-                      <p className="text-[19px] font-serif text-[#5A544A] mb-1">27 Haziran 2026</p>
-                      <p className="text-[10px] tracking-[0.3em] text-[#A39785] uppercase mb-4">Cumartesi</p>
-                      <div className="flex items-center gap-2 text-[#7A7265] bg-[#FAF8F5] px-4 py-2 rounded-full border border-[#E8E2D9]">
-                          <Clock className="w-3.5 h-3.5 text-[#CBA373]" />
-                          <span className="text-xs font-medium">19:00 - 23:00</span>
+                      <h3 className="font-serif text-3xl text-[#CBA373] mb-3">Düğün</h3>
+                      <p className="text-[22px] font-sans font-bold text-[#2A2723] mb-1">27 Haziran 2026</p>
+                      <p className="text-xs tracking-[0.4em] font-bold text-[#A39785] uppercase mb-5">Cumartesi</p>
+                      <div className="flex items-center gap-2.5 text-[#2A2723] bg-[#FAF8F5] px-5 py-2.5 rounded-full border border-[#E8E2D9]">
+                          <Clock className="w-4 h-4 text-[#CBA373]" />
+                          <span className="text-[14px] font-bold tracking-widest">19:00 - 23:00</span>
                       </div>
                   </motion.div>
               </div>
